@@ -2,22 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Análise de sinais de áudio
+[Estudo sobre audio signals](https://github.com/AnaRachel1/Studying-audio-signals)
+Estudos iniciais sobre processamento de audio (audio features, representations). Inclui também uma aplicação prática do uso de Chromagrams na análise de padrões de repetição na harmonia de músicas.
+<img src="images/audio_features.jpg?raw=true"/>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Classificação de genero musical](/sample_page)
+Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### ML projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
