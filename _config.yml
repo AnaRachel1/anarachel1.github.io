@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Ana Rachel Melo # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Engenheira civil descobrindo o mundo dos dados 
   <br><br>
-  Second description 
+  Atualmente, estudante de ciência de dados e pesquisadora interna na Moises.ai, trabalhando com processamento de áudio (música) para machine learning e deep learning.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ana-rachel-melo/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
