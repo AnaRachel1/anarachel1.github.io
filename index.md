@@ -11,6 +11,45 @@
 <br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Teste para felipe](/sample_page_copy)
+<br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
 ### ML projects
