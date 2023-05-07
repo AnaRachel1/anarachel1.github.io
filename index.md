@@ -2,10 +2,11 @@
 
 ---
 
-### Análise de sinais de áudio
-[Estudo sobre audio signals](/audio_study) 
+### Audio Signal Analysis
+[ Audio Signals Study](/audio_study) 
 <br> Initial studies about audio (song) processing, like audio features and representations.
-<img src="images/audio_features.jpg?raw=true"/>
+<br> **Figure - Audio representations for Perfect by Ed Sheeran**
+<img src="images/audio_basics/audio_features.jpg?raw=true"/>
 
 [Classificação de genero musical](/sample_page)
 <br> Uso de rede neural convulacional para classificação do genero de musicas. Modelo treinado para 10 generos.

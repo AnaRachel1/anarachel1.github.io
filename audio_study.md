@@ -7,13 +7,14 @@ Certain types of movements generate a change in the pressure of the environment 
 A video that shows in a very interesting way how this vibration can be different according to the sound (its frequency) is linked [here](https://www.youtube.com/watch?v=wvJAgrUBF4w).
 
 Therefore, sound waves in air are longitudinal mechanical waves that are formed by successive compressions and rarefactions of air (pressure variations). The equation that best represents the temporal variation of pressure at a point in the medium is described by a sigmoid function and the representation is called a waveform.
+
 _**Sigmoid equation**: p (t) = p0 sin (wt)_
 •	p(t): air pressure difference, for t moment; 
 •	p0: inicial pressure,
 •	w: angular frequency.
 
 *Figura 1 – Air pressure zones* 
-[Figura1](images/understanding_fig1.png)
+[Figura1](images/audio_basics/fig1_wave.jpg)
  
 Os sons são caracterizados pela sua altura, intensidade e timbre. 
 - **Altura**: A altura do som diz respeito à sua frequência. Sons altos são aqueles que apresentam grandes frequências, também chamados de sons agudos. Os sons baixos, por sua vez, são aqueles que apresentam baixas frequências, tratando-se, portanto, de sons graves.
@@ -29,7 +30,7 @@ _Note 1: a CD has SR of 44100 Hz and 16bits depth._
 _Note 2: For Machine learning analysis, a SR of 22050Hz is sufficient._
 
 *Figura 2 – Different bits depths representation* 
-[Figura2](images/understanding_fig2.png)
+[Figura2](images/audio_basics/fig2_discretization.png)
 
 ## Sound representations
 **Fourier Transform (FT)** breaks down a complex and periodic sound into waves that oscillate at different frequencies. It manages to find out which waves (of which frequencies) make up that sound. 
