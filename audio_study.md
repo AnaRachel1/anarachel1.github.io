@@ -5,15 +5,15 @@
 
 Certain types of movements generate pressure changes in a way that produces a vibration of the molecules, alternating movements of condensation and rarefaction, which are the sound wave. When the medium is “elastic”, it means the medium is capable of undergoing these changes and then propagating sound, for exemple water and air.
 
-A video that shows in a very interesting way how this vibration can be different according to the sound (its frequency) is linked [here](https://www.youtube.com/watch?v=wvJAgrUBF4w).
+A video that shows in a very interesting way how this vibration can be different according to the sound (its frequency) is linked **[here](https://www.youtube.com/watch?v=wvJAgrUBF4w)**.
 
 Therefore, sound waves in air are longitudinal mechanical waves that are formed by successive compressions and rarefactions of air (pressure variations). The equation that best represents the temporal variation of pressure at a point in the medium is described by a sigmoid function and the representation is called a waveform.
 
-_**Sigmoid equation**: p (t) = p0 sin (wt)_
+_Sigmoid equation: p (t) = p0 sin (wt)_
 
-•	p(t): air pressure difference, for t moment; 
-•	p0: inicial pressure,
-•	w: angular frequency.
+- p(t): air pressure difference, for t moment;  
+- p0: inicial pressure,
+- w: angular frequency.
 
 *Figura 1 – Air pressure zones* 
 <img src="images/audio_basics/fig1_wave.jpg?raw=true"/>
@@ -53,7 +53,7 @@ A solution to be able to preserve time information and still have frequency info
 The famous **Mel-spectogram** is a Spectogram's adaptation. It turns out that peoples ears work on a logarithmic scale so that the ear can detect much finer changes in amplitude at low amplitudes than at high amplitudes. In order to get a better perception of amplitude, just like out ears would detect it, the amplitude is converted to decibels (dB) by applying _the Mel scale_ which is basically a logarithmic scale. The result of it is called Mel-Spectrogram!
 
 *Figura 5 – Applying STFT* 
-<img src="images\audio_basics\Fig6_ mfcc_mel.png?raw=true"/>
+<img src="images\audio_basics\fig5_short_fourier.png?raw=true"/>
 
 Another representation very used in instrument/genre classification and speech recognition is the Mel Frequency Cepstral Coefficients (MFCCs). That is because it captures the timbre of that sound. To build the MFCCs, it is also necessary to use FT to get the frequency information but it also converts it to the perceptive way. 
 
