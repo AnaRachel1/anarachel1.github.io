@@ -17,7 +17,7 @@ _Sigmoid equation: p (t) = p0 sin (wt)_
 
 *Figura 1 – Air pressure zones* 
 
-<img src="images/audio_basics/fig1_wave.jpg" width="200" height="300"/>
+<img src="images/audio_basics/fig1_wave.jpg" width="200" height="200"/>
  
 Sounds are characterized by their pitch, intensity and timbre.
 - **Pitch**: The pitch of the sound refers to its frequency. Loud sounds are those that have high frequencies, also called high-pitched sounds. Low sounds, in turn, are those that have low frequencies, therefore, they are serious sounds.
