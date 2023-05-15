@@ -1,4 +1,4 @@
-# Linear regression 
+# Linear Regression 
 
 Linear regression is one of *the simplest and most common* machine learning algorithms. It is used to predict continuous/real variables, by **evaluating and quantifying the relationship between dependent and independent variables**. 
 
@@ -26,15 +26,16 @@ To use linear regression, **we need to assess four assumptions**, which are illu
 
 *Figure 1 – Assumptions of linear regression* 
 
-<img src="images\regression\assumptions.png" width="200" height="200"/> 
+<img src="images\regression\assumptions.png" /> 
+
 *From: SuperDataScience*
 
-**1.    Linearity**: The relationship between every independent variable Xi and the dependent variable Y is assumed to be linear when the other variables are held constant;
-**2.	Homoscedasticity:** The variance of the errors is the same for any combination of values of the independent variables;
-**3.	Normality:** All errors are normally distributed around zero;
-**4.	Independence:**The errors ε1, ε2, …, should be independent of one another, that is, they have no correlation. 
+**1.    Linearity**: The relationship between every independent variable Xi and the dependent variable Y is assumed to be linear when the other variables are held constant;<br>
+**2.	Homoscedasticity:** The variance of the errors is the same for any combination of values of the independent variables;<br>
+**3.	Normality:**  All errors are normally distributed around zero;<br>
+**4.	Independence:** The errors ε1, ε2, …, should be independent of one another, that is, they have no correlation. <br>
 - *No multicollinearity*: It is an extension of the linearity assumption, the independent variables cannot be correlated to one another;
-- *Outlier check*: analyze discrepant observations as they impair the efficiency of the model.
+- *Outlier check*: Analyze discrepant observations as they impair the efficiency of the model.
 
 
 **Breaches of linearity and independence assumptions may result in biased, inconsistent, and inefficient estimates, making it crucial to verify these assumptions.** While violations of the other two assumptions have less severe consequences, as estimates remain consistent and unbiased. For instance, when the normality of errors is not checked, the least squares method is most efficient within the class of linear estimators that provide consistent outcomes, but the p-values could be biased.
@@ -46,7 +47,7 @@ Various methods are available to examine the four assumptions of the regression 
 *Figure 2 – Residual plots*
 *a) good residual plot, b) no homoscedasticity, c) no linearity.* 
 
-<img src="images\regression\residuos.jpg" width="200" height="200"/> 
+<img src="images\regression\residuos.jpg" /> 
 
 ## The model is perfect in training, but awful in testing. What to do?
 
