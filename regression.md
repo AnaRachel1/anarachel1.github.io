@@ -26,7 +26,7 @@ To use linear regression, **we need to assess four assumptions**, which are illu
 
 *Figure 1 – Assumptions of linear regression* 
 
-<img src="images\regression\assumptions.png" /> 
+<img src="images\regression\assumption.png" /> 
 
 *From: SuperDataScience*
 
@@ -65,7 +65,7 @@ The primary distinctions between L1 and L2 regularization are:
 
 The **lambda parameter** (also known as alpha) controls the magnitude of the penalty applied to the coefficients. The higher the alpha, the lower these coefficients' values. Alpha must be selected with caution since it can lead to underfitting if chosen incorrectly. The best approach for determining the alpha value is through *cross-validation*, where multiple alpha values are tested, and the one yielding the lowest error in predictions is chosen.
 
-
+<br>
 
 **References**:
 
