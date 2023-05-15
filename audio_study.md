@@ -11,9 +11,7 @@ Therefore, sound waves in air are longitudinal mechanical waves that are formed 
 
 _Sigmoid equation: p (t) = p0 sin (wt)_
 
-- p(t): air pressure difference, for t moment;  
-- p0: inicial pressure,
-- w: angular frequency.
+Where the p(t) is air pressure difference, for t moment, p0 is the inicial pressure and w the angular frequency.
 
 *Figure 1 – Air pressure zones* 
 
@@ -30,11 +28,12 @@ For digital software to interpret a sound, we need to take a analog signal and c
 - **Sample rate**: quantity of samples taken per second (Hz),
 - **Bits depth**: amplitude or y discretization (bits).
 
-_Note 1: a CD has SR of 44100 Hz and 16bits depth._
-_Note 2: For Machine learning analysis, a SR of 22050Hz is sufficient._
+>Note 1: a CD has SR of 44100 Hz and 16bits depth.
+>Note 2: For Machine learning analysis, a SR of 22050Hz is sufficient.
 
 *Figure 2 – The discretization of a continuous signal* 
-<img src="images/audio_basics/fig2_discretization.png?raw=true" width="150" height="100"/>
+
+<img src="images/audio_basics/fig2_discretization.png?raw=true"/>
 
 ## Sound representations
 
@@ -57,7 +56,7 @@ The famous **Mel-spectogram** is a Spectogram's adaptation. It turns out that pe
 
 Another representation very used in instrument/genre classification and speech recognition is the **Mel Frequency Cepstral Coefficients (MFCCs)**. That is because it captures the timbre of that sound. To build the MFCCs, it is also necessary to use FT to get the frequency information but it also converts it to the perceptive way. 
 
-_Note: in song analysis, it usually uses coefficients from 13 to 40._ 
+>Note: in song analysis, it usually uses coefficients from 13 to 40.
 
 *Figure 6 – Mel-Spectrogram and MFFs* 
 <img src="images\audio_basics\Fig6_ mfcc_mel.png?raw=true"/>
@@ -66,8 +65,8 @@ _Note: in song analysis, it usually uses coefficients from 13 to 40._
 > A git repository testing these concepts is in my [github](https://github.com/AnaRachel1/Studying-audio-signals).
 > <br> See more there.
  
-
-
+<br>
+<br>
 
 ### REFERENCES
 **O que é som?**  Available in https://complexosonoro.com/2021/08/19/o-que-e-som-2/
