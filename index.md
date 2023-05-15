@@ -15,10 +15,6 @@
 **[Music Genre Classification Project](https://github.com/anarachel1/Music-Genre-Classification-CNN)**
 <br> An use of convulational neural network for music genre classification. There is also a simple example using an artificial neural network for the same goal. These Models were trained using the GTZAN Dataset which contains songs from 10 different genres.
 
-<img src="images\genre_class\concept.jpg?raw=true"/>
-
-*image from analytics steps*
-
 ---
 
 ## Machine Learning Algorithms
