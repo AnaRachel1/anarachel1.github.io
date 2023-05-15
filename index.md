@@ -4,17 +4,18 @@
 
 ## Audio Signal Analysis
 
-**[Audio Signals Study](/audio_study) **
+**[Audio Signals Study](/audio_study)**
 <br> Initial studies about audio (song) processing, talks about audio features and representations.
 <br> **Figure - Audio representations for Perfect by Ed Sheeran**
 <img src="images/audio_basics/audio_features.jpg?raw=true"/>
 
 > [Understanding audio data jupter notebook](https://github.com/anarachel1/Studying-audio-signals) <br> Practical material with above concepts and applications, one of them recognition of repetitive patterns in songs. 
 
+
 **[Music Genre Classification](https://github.com/anarachel1/Music-Genre-Classification-CNN)**
 <br> An use of convulational neural network for music genre classification. There is also a simple example using an artificial neural network for the same goal. These Models were trained using the GTZAN Dataset which contains songs from 10 different genres.
 
-<img src="images\genre_class\concept.jfif?raw=true"/>
+<img src="images\genre_class\concept.jfif?raw=true" w=300 h=200/>
 
 ---
 
